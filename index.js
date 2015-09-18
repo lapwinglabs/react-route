@@ -1,5 +1,5 @@
 /**
- * Export `mini-react-router`
+ * Export `react-route`
  */
 
 exports = module.exports = require('./lib/route');
