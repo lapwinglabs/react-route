@@ -20,9 +20,6 @@ export default class Example extends React.Component {
         <Route path='/'>
           <h2>index</h2>
         </Route>
-        <Route path='!/'>
-          <h2>index</h2>
-        </Route>
         <Route path='/dashboard'>
           <h2>dashboard</h2>
         </Route>
