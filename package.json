@@ -1,6 +1,6 @@
 {
   "name": "react-route",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "tiny react router thats less opinionated than react-router",
   "main": "index.js",
   "scripts": {
