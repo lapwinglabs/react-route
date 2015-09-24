@@ -18,14 +18,12 @@
   "dependencies": {
     "component-emitter": "^1.2.0",
     "object-assign": "^3.0.0",
-    "path-to-regexp": "^1.2.0",
-    "react": "^0.13.3"
+    "path-to-regexp": "^1.2.0"
   },
   "devDependencies": {
-    "react": "^0.13.3",
     "roo": "^0.4.5"
   },
-  "browser": {
-    "react": "react/dist/react.js"
+  "peerDependencies": {
+    "react": "^0.13.3 || ^0.14.0-rc1"
   }
 }
